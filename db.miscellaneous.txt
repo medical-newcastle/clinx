@@ -8,3 +8,11 @@ What are the live vaccines?
 - Yellow fever
 - Japanese encephalitis
 - Oral typhoid
+
+## Miscellaneous, Opioid withdrawal %%
+Management of Opioid withdrawal?
+ - Anxiety: Benzodiazepines or Clonidine
+ - Nausea: Promethazine or Diphenhydramine
+ - Cramp/Pain: Non-opioid analgesia or Baclofen
+ - Diarrhoea: Loperamide or octreotide
+$+ UpToDate - Opioid Withdrawal in the emergency setting $$
