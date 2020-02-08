@@ -105,3 +105,12 @@ Causes of hirsutism?
 - Adrenal (Cushing's syndrome, Congenital Adrenal Hyperplasia, virilising adrenal tumour)
 - Polycystic ovarian syndrome
 - Acromegaly, porphyria cutanea tarda
+
+## Endocrine, Proptosis %%
+Causes of proptosis?
+- Graves orbitopathy
+- Cavernous sinus thrombosis
+- Fistula between the carotid artery and the cavenous sinus
+- Retro-orbital tumour (lymphoma etc)
+- Abscess
+$+ https://www.basicphysiciantraining.com/endocrine.html $$
