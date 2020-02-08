@@ -125,3 +125,16 @@ What are the risks of PSC?
 - Cholangiocarcinoma
 - Gallbladder cancer
 - Colorectal carcinoma
+
+## Abdominal, Polycystic Kidney Disease %%
+Differentials for bilateral ballotable kidneys?
+- ADPKD, chromosome 16, or 4
+- Von Hippel Lindau syndrome (haemangioblastoma formation, RCC, phaeo, chromosome 3)
+- Tuberous sclerosis
+- Trisomies 13/18, 21
+- Bilateral hydronephrosis
+- Amyloidosis
+- Bilateral renal cell carcinoma
+- Bilateral renal cysts
+$+ https://www.basicphysiciantraining.com/renal.html $$
+
