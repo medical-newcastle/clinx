@@ -158,3 +158,38 @@ Name some conditions associated with Calcium Pyrophospate Deposition Disease.
 - Chronic gout
 - Gitelman's syndrome
 - Hypo phosphatasia & hypo magnesemia
+
+## Rheumatology, Swan-neck deformity %%
+What are the mechanical deformations in a Swan-neck deformity?
+- Flexion of the Distal Interphalangeal Joint
+- Hyperextension of the Proximal Interphalangeal Joint
+- Flexion of the Metacarpophalangeal Joint
+$+ https://www.basicphysiciantraining.com/rheumatology.html $$
+
+## Rheumatology, Z Deformity %%
+What are the mechanical deformations in a Z-thumb?
+- Flexion at the Interphalangeal Joint
+- Hyperextension of the Metacarpophalangeal Joint
+$+ https://www.basicphysiciantraining.com/rheumatology.html $$
+
+## Rheumatology, Rheumatoid nodules %%
+Differentials for rheumatoid nodules?
+- Cutaneous sarcoid
+- Granuloma annulare
+- Gouty tophi
+- Tendon xanthoma
+$+ https://www.basicphysiciantraining.com/rheumatology.html $$
+
+## Rheumatology, Rheumatoid nodules %%
+Tell me about the significance of rheumatoid nodules.
+- Almost always sero-positive disease
+- Histology would show diffuse pallisading/interstitial granulomatous inflammation
+$+ https://www.basicphysiciantraining.com/rheumatology.html $$
+
+## Rheumatology, Rheumatoid factor %%
+What is rheumatoid factor?
+- Auto-antibody, frequently IgM
+- Directed against Fc portion of human immunoglobulin
+- Associated with aggressive, erosive disease
+- Titre does not reflect disease activity
+$+ https://www.basicphysiciantraining.com/rheumatology.html $$
