@@ -206,6 +206,14 @@ Causes of ptosis?
 - CN III palsy (dilated pupil)
 $+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p420-421 $$
 
+## Neurology, Ptosis %%
+Causes of bilateral ptosis?
+- Myasthenia gravis
+- Kearns Sayre syndrome
+- Fascioscapulohumeral muscular dystrophy
+- Oculopharyngeal muscular dystrophy
+$+ https://www.basicphysiciantraining.com/neurology.html $$
+
 ## Neurology, Bulbar Palsy %%
 What are the clinical features of a bulbar palsy?
 - Lower motor neuron changes in glossopharyngeal, vagus & accessory nerves
@@ -471,3 +479,30 @@ $+ Differentiating c8-t1 radiculopathy from ulnar neuropathy: a survey of 24 spi
 ## Neurology, Foot Drop %%
 What clinical feature distinctly predicts common peroneal nerve involvement rather than L5 root pathology?
 - Preservation of inversion (foot)
+
+## Neurology, Spastic Paraparesis %%
+Differentials for bilateral spastic paraparesis?
+- Stroke, anterior spinal artery syndrome (vascular)
+- Multiple sclerosis, atypical neuromyelitis optica (autoimmune)
+- Vasculitic disease (inflammatory)
+- B12 deficiency, leukodystrophies
+- Tabes dorsalis
+- Tropical spastic paraparesis (Human T-lymphotropic virus 1)
+- Hereditary spastic paraparesis
+$+ https://www.basicphysiciantraining.com/neurology.html $$
+
+## Neurology, Cerebellar Syndrome %%
+Causes of a cerebellar syndrome?
+- Posterior circulation infarct
+- Lateral medullary syndrome
+- Toxoplasmosis
+- Toxins: alcohol, lithium, phenytoin, carbamazepine
+- Multiple sclerosis
+- Systemic lupus erythematous
+- Hypothyroidism
+- Spinocerebellar ataxia
+- Friedrich's ataxia
+- Medulloblastoma, astrocytoma, paraneoplastic phenomena
+- Multi-system atrophy (cerebellar subtype)
+- Budd-Chiari malformation
+$+ https://www.basicphysiciantraining.com/neurology.html $$
