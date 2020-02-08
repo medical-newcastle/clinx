@@ -520,3 +520,22 @@ Clinical features of corticobasal degeneration?
 - (This is a taupathy)
 $+ https://www.basicphysiciantraining.com/neurology.html $$
 
+## Neurology, Myopathy %%
+Types of inflammatory myopathies?
+- Polymyositis
+- Dermatomyositis (anti-Mi2, anti-SUMO-1)
+- Anti-synthestase syndrome (anti-Jo1, tRNA synthetas, ILD, arthritis)
+- Necrotising autoimmune myositis (HMG-CoA Reductase Ab, Signal-Recognition-Peptide Ab (SRP))
+- Inclusion body myositis
+$+ https://www.basicphysiciantraining.com/neurology.html $$
+
+## Neurology, Ankle Jerks %%
+Differentials for absent ankle jerks, upgoing plantars?
+- Subacute combined degeneration of the cord
+- Freidrich's ataxia
+- Tabes dorsalis
+- Conus medullaris lesion
+- Combined peripheral neuropathy & stroke
+- Combined peripheral neuropathy & cervical myelopathy
+- Combined cervical & lumbar spondylosis
+$+ https://www.basicphysiciantraining.com/neurology.html $$
