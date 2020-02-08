@@ -506,3 +506,17 @@ Causes of a cerebellar syndrome?
 - Multi-system atrophy (cerebellar subtype)
 - Budd-Chiari malformation
 $+ https://www.basicphysiciantraining.com/neurology.html $$
+
+## Neurology, Corticobasal Degeneration %%
+Clinical features of corticobasal degeneration?
+- Alien hand phenomenon
+- Rigidity
+- Dystonia
+- Myoclonus
+- Neglect
+- Astereognosis
+- Tool substitution
+- Speech apraxia
+- (This is a taupathy)
+$+ https://www.basicphysiciantraining.com/neurology.html $$
+
