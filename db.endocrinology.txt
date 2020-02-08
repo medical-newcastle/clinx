@@ -173,4 +173,12 @@ Causes of Cushing's syndrome?
 - Nodular adrenal hyperplasia
 $+ https://www.basicphysiciantraining.com/endocrine.html $$
 
-
+## Endocrine, Diabetic Neuropathy %%
+What are the six types of diabetic neuropathy?
+- distal symmetric sensorimotor axonal neuropathy
+- distal small fibre neuropathy
+- autonomic neuropathy
+- proximal neuropathy (femoral amyotrophy, lumbosacral radiculoplexus neuropathy)
+- mononeuritis multiplex
+- entrapment neuropathies
+$+ https://www.basicphysiciantraining.com/neurology.html $$
