@@ -22,6 +22,19 @@ Active acromegaly?
 - Hypertension
 - Headache
 
+## Endocrine, Acromegaly %%
+Workup for acromegaly?
+- Insulin-like Growth Factor-1 (IGF-1); correct for age
+- Oral glucose tolerance test (OGTT); will not suppress Growth Hormone <1ng/mL
+- MRI pituitary
+- End-organ assessments:
+-- ECHO
+-- ECG
+-- sleep study
+-- Pituitary profile
+-- Consider colonoscopy
+$+ https://www.basicphysiciantraining.com/endocrine.html $$
+
 ## Endocrine, Goitre %%
 Causes of diffuse goitre?
 - Idiopathy
@@ -114,3 +127,50 @@ Causes of proptosis?
 - Retro-orbital tumour (lymphoma etc)
 - Abscess
 $+ https://www.basicphysiciantraining.com/endocrine.html $$
+
+## Endocrine, Thyroid mass %%
+Investigations for a thyroid mass?
+- Thyroid function tests
+- Antibodies, including anti-thyroid peroxidase, anti-thyroglobulin, TSH receptor autoantibodies
+- Thyroid ultrasound
+- Technetium pertechnetate (Tc-99m) / nuclear scan
+- Fine needle aspirate
+$+ https://www.basicphysiciantraining.com/endocrine.html $$
+
+## Endocrine, Thyroid mass %%
+What causes a painful thyroid mass?
+- Suppurative or infective thyroid
+- Subacute granulomatous thyroiditis
+- Radiation thyroiditis
+$+ https://www.basicphysiciantraining.com/endocrine.html $$
+
+## Endocrine, Hypothyroidism %%
+Clinical findings of hypothyroidism?
+- Slow, slurred speech
+- Bradykinetic walk
+- Overweight
+- Hoarse, croaking voice
+- Bradycardia
+- Subcutaneous oedema owing to deposition of glycosaminoglycan in the dermal layer
+- Periorbital swelling
+- Proximal myopathy
+$+ https://www.basicphysiciantraining.com/endocrine.html $$
+
+## Endocrine, Orbital oedema %%
+What is the mechanism for orbital edema in thyroid opthalmopathy?
+- Glycosaminoglycan infiltration of extra-ocular muscles
+- This causes raised orbital pressure
+- The superior opthalmic vein obstructs, causing oedema
+$+ https://www.basicphysiciantraining.com/endocrine.html $$
+
+## Endocrine, Cushing's syndrome %%
+Causes of Cushing's syndrome?
+- Exogenous steroid use
+- Cushing's disease
+- Adrenal adenoma
+- Ectopic ACTH
+- Adrenal carcinoma
+- Nodular adrenal hyperplasia
+$+ https://www.basicphysiciantraining.com/endocrine.html $$
+
+
