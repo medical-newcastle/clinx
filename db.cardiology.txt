@@ -400,3 +400,11 @@ What are signs of coarctation of the aorta on CXR?
 - Aortic indentation
 - Enlarged left ventricle
 $+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p334-335 $$
+
+## Cardiology, Diastolic Murmur %%
+What are the differentials for a mid-diastolic murmur?
+- Mitral stenosis
+- Left atrial myxoma
+- Left atrial thrombus
+- Cor triatriatum
+$+ Ming's Clinical Examination book $$
