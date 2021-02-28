@@ -403,7 +403,7 @@ $+ Examination Medicine 7th Edition. Talley & O'Connor 2014 p334-335 $$
 
 ## Cardiology, Diastolic Murmur %%
 What are the differentials for a mid-diastolic murmur?
-- Mitral stenosis
+- Valvular pathologies such as Mitral stenosis & Aortic regurgitation
 - Left atrial myxoma
 - Left atrial thrombus
 - Cor triatriatum
