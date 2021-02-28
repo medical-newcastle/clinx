@@ -187,6 +187,10 @@ Causes of pulmonary regurgitation
 Causes of mitral stenosis
 - rheumatic heart disease
 - congenital parachute valve (rare)
+- rheumatoid arthritis
+- systemic lupus erythematous
+- carcinoid syndrome
+$+ Ming's Clinical Examination book $$
 
 ## Cardiology, Mitral Regurgitation %%
 Causes of mitral regurgitation, chronic
