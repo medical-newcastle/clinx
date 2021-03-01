@@ -209,3 +209,9 @@ Potential causes for a thoracotomy scar?
 - Surgery on other mediastinal structures
 - Sympathetic trunk operations
 $+ Thoracotomies: Indications, Results and Implications. A Softah. 2006 <a href="https://www.researchgate.net/publication/265407235_Thoracotomies_Indications_Results_And_Implications">Link</a> $$
+
+## Respiratory, Bronchiectasis %%
+What would be signs on imaging suggestive of bronchiectasis?
+- Tram-tracking on x-ray
+- Signet ring on CT
+$+ <a href="https://radiopaedia.org/articles/bronchiectasis">Radiopedia</a>. <a href="https://radiopaedia.org/articles/signet-ring-sign?lang=gb">Signet ring</a>, <a href="https://radiopaedia.org/articles/tram-track-sign-chest-1?lang=gb">tram track</a>.$$
