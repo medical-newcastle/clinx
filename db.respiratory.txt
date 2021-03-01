@@ -199,3 +199,16 @@ What are the criteria specific to Pulmonary Vascular diseases in lung transplant
 - Refractory or progressive right heart failure
 - Mean right atrial pressure of > 15 mmHg, cardiac index < 2L/min/m2, & mean pulmonary arterial pressure > 50 mmHg
 $+ TSANZ Clinical Guidelines for Organ Transplantation from Deceased Donors. 2017 p71 $$
+
+## Respiratory, Thoracotomy %%
+Potential causes for a thoracotomy scar?
+- Empyema or encysted effusion
+- Pneumothorax or bullae
+- Interstitial lung disease
+- Bronchiectasis
+- Trauma: clotted hemothorax, lung laceration
+- Lung mass or carcinoma 
+- Ruptured diaphram
+- Surgery on other mediastinal structures
+- Sympathetic trunk operations
+$+ Thoracotomies: Indications, Results and Implications. A Softah. 2006 <a href="https://www.researchgate.net/publication/265407235_Thoracotomies_Indications_Results_And_Implications">Link</a> $$
