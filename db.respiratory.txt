@@ -106,9 +106,9 @@ Signs of pulmonary hypertension?
 - Prominent a waves
 - Prominent v waves (once TR occurs)
 - RV heave
-- TR murmur
-- PS murmur
-- PR murmur (severe)
+- ±TR murmur
+- ±PS murmur
+- ±PR murmur (severe)
 - Pulsatile liver
 - Peripheral oedema
 
