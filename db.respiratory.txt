@@ -131,7 +131,30 @@ Causes of clubbing?
 -- Familial or idiopathic
 -- Brachial arteriovenous aneurysm
 -- Neurogenic diaphragmatic tumours
-$+ Examination Medicine, 7th Edition. Talley & O'Connor. 2014 $$
+$+ Examination Medicine, 7th Edition. Talley & O'Connor. 2014 p343 $$
+
+## Respiratory, Bronchial breath sounds %%
+Describe the nature of bronchial breath sounds?
+- Prolonged expiratory phase
+- Has a blowing quality
+$+ Examination Medicine, 7th Edition. Talley & O'Connor. 2014 p345 $$
+
+## Respiratory, Bronchial breath sounds %%
+Causes of bronchial breath sounds?
+- Lobar pneumonia
+- Localised fibrosis or collapse
+- Above a pleural effusion
+- Large lung cavity
+$+ Examination Medicine, 7th Edition. Talley & O'Connor. 2014 p345 $$
+
+## Respiratory, Reduced breath sounds %%
+Causes of reduced breath sounds?
+- Emphysema
+- Large lung mass
+- Collapse, fibrosis or pneumonia
+- Effusion
+- Pneumothorax
+$+ Examination Medicine, 7th Edition. Talley & O'Connor. 2014 p345 $$
 
 ## Respiratory, Bronchiectasis %%
 Causes of bronchiectasis?
