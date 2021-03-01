@@ -151,6 +151,7 @@ Causes of reduced breath sounds?
 - Collapse, fibrosis or pneumonia
 - Effusion
 - Pneumothorax
+- Raised hemi-diaphragm
 $+ Examination Medicine, 7th Edition. Talley & O'Connor. 2014 p345 $$
 
 ## Respiratory, Bronchiectasis %%
