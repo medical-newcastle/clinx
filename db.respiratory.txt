@@ -114,15 +114,24 @@ Signs of pulmonary hypertension?
 
 ## Respiratory, Clubbing %%
 Causes of clubbing?
-- Chronic suppurative disease (bronchiectasis, abscess)
-- Lung carcinoma (not small cell)
-- Cystic fibrosis
-- Mesothelioma
-- Mediastinal disease (thymoma, lymphoma, carcinoma)
-- Infective endocarditis
-- Cyanotic congenital heart disease
-- Coeliac disease, inflammatory bowel disease
-- Familial
+- Respiratory
+-- Lung carcinoma (not small cell)
+-- Chronic pulmonary suppuration (bronchiectasis, lunc abscess, empyema)
+-- Idiopathic pulmonary fibrosis, asbestosis
+-- Cystic fibrosis
+-- Pleural fibroma or mesothelioma
+-- Mediastinal disease (thymoma, lymphoma, carcinoma)
+- Cardiovascular
+-- Infective endocarditis
+-- Cyanotic congenital heart disease
+- Other
+-- Coeliac disease, inflammatory bowel disease
+-- Cirrhosis
+-- Thyrotoxicosis
+-- Familial or idiopathic
+-- Brachial arteriovenous aneurysm
+-- Neurogenic diaphragmatic tumours
+$+ Examination Medicine, 7th Edition. Talley & O'Connor. 2014 $$
 
 ## Respiratory, Bronchiectasis %%
 Causes of bronchiectasis?
