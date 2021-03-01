@@ -116,21 +116,18 @@ Signs of pulmonary hypertension?
 Causes of clubbing?
 - Respiratory
 -- Lung carcinoma (not small cell)
--- Chronic pulmonary suppuration (bronchiectasis, lunc abscess, empyema)
+-- Chronic pulmonary suppuration (bronchiectasis, lung abscess, empyema)
 -- Idiopathic pulmonary fibrosis, asbestosis
 -- Cystic fibrosis
--- Pleural fibroma or mesothelioma
--- Mediastinal disease (thymoma, lymphoma, carcinoma)
+-- Pleural fibroma, mesothelioma
 - Cardiovascular
 -- Infective endocarditis
 -- Cyanotic congenital heart disease
 - Other
--- Coeliac disease, inflammatory bowel disease
+-- Inflammatory bowel disease, coeliac disease
 -- Cirrhosis
 -- Thyrotoxicosis
 -- Familial or idiopathic
--- Brachial arteriovenous aneurysm
--- Neurogenic diaphragmatic tumours
 $+ Examination Medicine, 7th Edition. Talley & O'Connor. 2014 p343 $$
 
 ## Respiratory, Bronchial breath sounds %%
