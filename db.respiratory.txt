@@ -215,3 +215,15 @@ What would be signs on imaging suggestive of bronchiectasis?
 - Tram-tracking on x-ray
 - Signet ring on CT
 $+ <a href="https://radiopaedia.org/articles/bronchiectasis">Radiopedia</a>. <a href="https://radiopaedia.org/articles/signet-ring-sign?lang=gb">Signet ring</a>, <a href="https://radiopaedia.org/articles/tram-track-sign-chest-1?lang=gb">tram track</a>.$$
+
+## Respiratory, Hypertrophic pulmonary osteoarthropathy %%
+What is hypertrophic pulmonary osteoarthropathy, and what is the significance?
+- Triad of 
+-- periostitis, 
+-- digital clubbing, and
+-- painful arthropathy of the large joints
+- Association && causes
+-- pulmonary malignancy
+-- chronic pulmonary suppurative diseases
+-- hereditary (pachydermoperiostosis, very rare)
+$+ HPOA: An unusual presentation. Kumari, 2018. <a href="https://academic.oup.com/rheumap/article/2/1/rky009/5040548">Link</a> $$
